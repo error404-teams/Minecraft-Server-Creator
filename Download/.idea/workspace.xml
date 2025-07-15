@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d193715e-1019-413e-9b57-a8fc722700d6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Download.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Download.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Download.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Download.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +28,12 @@
     &quot;assignee&quot;: &quot;Tony081113&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/error404-teams/Minecraft-sever-Creator.git&quot;,
-    &quot;accountId&quot;: &quot;1e42accc-1961-4936-9540-287167e71eba&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/error404-teams/Minecraft-Server-Creator.git",
+    "accountId": "1e42accc-1961-4936-9540-287167e71eba"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -53,11 +48,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Download",
+    "git-widget-placeholder": "main",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.externalDependencies"
+    "settings.editor.selected.configurable": "preferences.externalDependencies",
+    "应用程序.Download.executor": "Run"
   }
 }]]></component>
   <component name="TaskManager">

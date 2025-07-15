@@ -62,7 +62,7 @@ public class Download {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("請輸入你要下載的 Minecraft sever 版本(例:1.20.0):");
+        System.out.println("請輸入你要下載的 Minecraft sever 版本(例:1.20.1):");
         String version = scanner.nextLine();
 
         String downloadUrl = getDownloadUrl(version);
@@ -127,4 +127,5 @@ public class Download {
             System.out.println("下載過程發生錯誤：" + e.getMessage());
         }
     }
+
 }
